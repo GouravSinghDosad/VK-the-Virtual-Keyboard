@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chavi362/virtual-keyboard.git
+git clone https://github.com/GouravSinghDosad/VK-the-Virtual-Keyboard.git
 ```
 
 2. open the project in terminal and then run:
