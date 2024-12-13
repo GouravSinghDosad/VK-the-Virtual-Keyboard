@@ -1,4 +1,3 @@
-![Alt Virtual_Keyboard](https://github.com/solvman/virtual-keyboard/assets/4379350/947b49ba-c81d-484b-ae95-044452553101)
 
 # Virtual Keyboard App
 
@@ -9,8 +8,6 @@ This is a React-based virtual keyboard app with support for multiple languages a
 -   [Features](#features)
 -   [Demo](#demo)
 -   [Installation](#installation)
--   [Contributing](#contributing)
--   [License](#license)
 
 ## Features
 
@@ -82,50 +79,11 @@ virtual-keyboard/
  ...                        # Other configuration files
 ```
 
-## Contributing
 
-We welcome contributions from the community to help improve the Virtual Keyboard App. If you would like to contribute, please follow these steps:
-<br>
-
-### First of all, please give the repository a star 🌟
-
-1. Fork the project.
-2. Create your feature branch:
-
-```bash
-git checkout -b feature/NewFeature.
-```
-
-3. Commit your changes:
-
-```bash
-git commit -m 'Add a new feature'.
-```
-
-4. Push to the branch:
-
-```bash
-git push origin feature/NewFeature.
-```
-
-5. Open a pull request on the main repository, describing your changes and explaining why they are valuable.
-
-   Please help us keep our issue list small by adding `Fixes #{$ISSUE_NUMBER}` to the description of pull requests that resolve open issues.
-   For example, if your pull request fixes issue #10, then please add the following to its description:
-
-```
-Fixes #10
-```
 ## Contact
 
 If you have any questions, suggestions, or issues regarding the virtual-keyboard, 
-please feel free to reach out to us through the [Issues](https://github.com/chavi362/virtual-keyboard/issues) section of this repository.
+please feel free to reach out to us through the [Issues]https://github.com/GouravSinghDosad/VK-the-Virtual-Keyboard/issues section of this repository.
 You can also discuss with as in the discussion template, there are there meaningfull discussion.
-You can also contact me via my [email](mailto:chavideveloper@gmail.com).
+You can also contact me via my [email](mailto:d.gouravsingh.941@gmail.com).
 
-## License
-
-
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
-
-Please ensure that your contributions adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). If you find this project helpful or interesting, please give it a ⭐️.
